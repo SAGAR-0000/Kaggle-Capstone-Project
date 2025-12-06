@@ -93,24 +93,21 @@ graph TD
 
 ## 📊 Business Impact
 
-### Proven Metrics
+### Projected Benefits
 
-| Metric | Before Mechanic-Mitra | After | Improvement |
+| Metric | Traditional Diagnostic | Mechanic-Mitra (Projected) | Benefit |
 |--------|----------------------|-------|-------------|
-| **Diagnostic Time** | 45-90 minutes | 3-5 minutes | **90% faster** |
-| **Labor Cost** | $80-150/diagnosis | $5/diagnosis | **94% reduction** |
-| **Accuracy** | 60% (junior mechanic) | 85%+ (AI agents) | **42% improvement** |
-| **Scalability** | 8 diagnoses/day/mechanic | 250+ diagnoses/day | **3000% increase** |
-| **Customer Satisfaction** | 72% | 91% | **26% improvement** |
+| **Diagnostic Time** | 45-90 minutes | 3-5 minutes | **Significant time savings** |
+| **Consistency** | Variable (human factor) | Standardized (AI+Memory) | **Reduced error rate** |
+| **Documentation** | Manual/Paper | Digital PDF + History | **Better record keeping** |
+| **Scalability** | Limited by staff count | High (software automated) | **Instant scaling** |
 
-### ROI Calculation
+### ROI Model
 
-**For a mid-size auto shop (50 diagnoses/week)**:
-- **Annual savings**: ~$180,000 in labor costs
-- **Revenue increase**: +$50,000 from faster turnaround
-- **Total annual benefit**: **$230,000**
-- **Implementation cost**: $0 (free tier) to $5,000/year
-- **ROI**: **4,500%+**
+**For a mid-size auto shop processing 50 diagnoses/week, the system aims to deliver:**
+- **Labor Optimization**: Freeing up senior mechanics for complex repairs rather than initial triage.
+- **Revenue Growth**: Faster turnaround times leading to higher service volume.
+- **Knowledge Retention**: Capturing diagnosis patterns in the system memory to train junior staff.
 
 ---
 
@@ -255,7 +252,7 @@ jupyter notebook mechanic_mitra.ipynb
 
 **Solo Developer**: Built as capstone project for Kaggle AI Agents Intensive Course
 
-**Contact**: Sagar.sahu2023@ssipmt.com | [LinkedIn](https://www.linkedin.com/in/sagar-sahu-355591311/) | [Kaggle Profile](https://www.kaggle.com/sagarsahu123)
+**Contact**: [Your Email] | [LinkedIn] | [Kaggle Profile]
 
 ---
 
@@ -273,4 +270,4 @@ MIT License - Free for educational and commercial use
 
 ---
 
-**Built with ❤️ using Google Gemini & Multi-Agent AI**
+**Built with ❤️ using Google Gemini**
