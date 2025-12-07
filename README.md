@@ -252,7 +252,7 @@ jupyter notebook mechanic_mitra.ipynb
 
 **Solo Developer**: Built as capstone project for Kaggle AI Agents Intensive Course
 
-**Contact**: [Your Email] | [LinkedIn] | [Kaggle Profile]
+**Contact**: [Email](mailto:sagar.sahu2023@ssipmt.com) | [LinkedIn](https://www.linkedin.com/in/sagar-sahu-355591311/) | [Kaggle Profile](https://www.kaggle.com/code/sagarsahu123/)
 
 ---
 
